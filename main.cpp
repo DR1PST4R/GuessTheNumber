@@ -44,6 +44,5 @@ int main()
 	}
 
 
-	getwchar();
 	return 0;
 }
